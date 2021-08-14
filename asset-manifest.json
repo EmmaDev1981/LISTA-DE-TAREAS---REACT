@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/LISTA-DE-TAREAS---REACT/static/css/main.38e57bd8.chunk.css",
+    "main.css": "/LISTA-DE-TAREAS---REACT/static/css/main.7f389cca.chunk.css",
     "main.js": "/LISTA-DE-TAREAS---REACT/static/js/main.d35922a6.chunk.js",
     "main.js.map": "/LISTA-DE-TAREAS---REACT/static/js/main.d35922a6.chunk.js.map",
     "runtime-main.js": "/LISTA-DE-TAREAS---REACT/static/js/runtime-main.a54eae00.js",
@@ -8,13 +8,13 @@
     "static/js/2.c9e842dc.chunk.js": "/LISTA-DE-TAREAS---REACT/static/js/2.c9e842dc.chunk.js",
     "static/js/2.c9e842dc.chunk.js.map": "/LISTA-DE-TAREAS---REACT/static/js/2.c9e842dc.chunk.js.map",
     "index.html": "/LISTA-DE-TAREAS---REACT/index.html",
-    "static/css/main.38e57bd8.chunk.css.map": "/LISTA-DE-TAREAS---REACT/static/css/main.38e57bd8.chunk.css.map",
+    "static/css/main.7f389cca.chunk.css.map": "/LISTA-DE-TAREAS---REACT/static/css/main.7f389cca.chunk.css.map",
     "static/js/2.c9e842dc.chunk.js.LICENSE.txt": "/LISTA-DE-TAREAS---REACT/static/js/2.c9e842dc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a54eae00.js",
     "static/js/2.c9e842dc.chunk.js",
-    "static/css/main.38e57bd8.chunk.css",
+    "static/css/main.7f389cca.chunk.css",
     "static/js/main.d35922a6.chunk.js"
   ]
 }

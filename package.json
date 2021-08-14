@@ -2,7 +2,7 @@
   "name": "todo-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/EmmaDev1981/LISTA-DE-TAREAS---REACT",
+  "homepage": "https://emmadev1981.github.io/LISTA-DE-TAREAS---REACT/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",

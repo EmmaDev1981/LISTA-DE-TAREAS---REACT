@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/EmmaDev1981/LISTA-DE-TAREAS---REACT/static/css/main.38e57bd8.chunk.css",
+    "main.js": "/EmmaDev1981/LISTA-DE-TAREAS---REACT/static/js/main.d35922a6.chunk.js",
+    "main.js.map": "/EmmaDev1981/LISTA-DE-TAREAS---REACT/static/js/main.d35922a6.chunk.js.map",
+    "runtime-main.js": "/EmmaDev1981/LISTA-DE-TAREAS---REACT/static/js/runtime-main.a68712af.js",
+    "runtime-main.js.map": "/EmmaDev1981/LISTA-DE-TAREAS---REACT/static/js/runtime-main.a68712af.js.map",
+    "static/js/2.c9e842dc.chunk.js": "/EmmaDev1981/LISTA-DE-TAREAS---REACT/static/js/2.c9e842dc.chunk.js",
+    "static/js/2.c9e842dc.chunk.js.map": "/EmmaDev1981/LISTA-DE-TAREAS---REACT/static/js/2.c9e842dc.chunk.js.map",
+    "index.html": "/EmmaDev1981/LISTA-DE-TAREAS---REACT/index.html",
+    "static/css/main.38e57bd8.chunk.css.map": "/EmmaDev1981/LISTA-DE-TAREAS---REACT/static/css/main.38e57bd8.chunk.css.map",
+    "static/js/2.c9e842dc.chunk.js.LICENSE.txt": "/EmmaDev1981/LISTA-DE-TAREAS---REACT/static/js/2.c9e842dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a68712af.js",
+    "static/js/2.c9e842dc.chunk.js",
+    "static/css/main.38e57bd8.chunk.css",
+    "static/js/main.d35922a6.chunk.js"
+  ]
+}
